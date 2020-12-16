@@ -41,4 +41,21 @@ En la siguiente imagen se muestra la distribución de la clasificación de los t
 
 ![analysis data result](https://github.com/IntiDev/MaybelineCorp/blob/main/Images/API_analysis_result.png)
 
-La clasificaión anterior se hizo para obtener las categorías principales que se mostrarán en la página principal del sitio.
+La clasificación anterior se hizo para obtener las categorías principales que se mostrarán en la página principal del sitio.
+
+### **Prototipos**
+
+**_Bajo nivel_**
+
+Con el análisis de los datos se hicieron 5 prototipos de la UI que incluyen las siguientes vistas:
+
+1.  [Home](https://github.com/IntiDev/MaybelineCorp/blob/main/Mockups/1.%20Home.jpeg) : vista principoal del sitio donde se muestra un carrusel con los 4 productos mejor calificados y las 5 categorías principales para navegar entre los tipos de producto.
+
+2. [Filtros](https://github.com/IntiDev/MaybelineCorp/blob/main/Mockups/2.%20Filtros.jpeg) : en esta vista se muestran todos los productos relacionados con la categoría seleccionada con una pequeña descripción, además de una barra de búsqueda y un filtro por precio y rating.
+
+3. [Producto](https://github.com/IntiDev/MaybelineCorp/blob/main/Mockups/3.Producto.jpeg) : para esta vista se muestra el producto seleccionado a detalle, con su imagen, nombre, precio, marca y descripción. En esta vista el usuario puede seleccionar la cantidad de producto que quiere comprar y agregarlo a su bolsa.
+
+4. [Carrito de compra](https://github.com/IntiDev/MaybelineCorp/blob/main/Mockups/4.Carrito.jpeg) : aquí se muestra el despligue a detalle de la compra como, número de productos, descripción del producto, precio por unidad, cantidad por unidad, subtotal y total.
+
+**Nota:** en cada pantalla se muestra un header con el logo y link al carrito de compra, una barra de navegación con las 5 categorías principales y un footer con texto y links a las redes sociales de la empresa.
+
